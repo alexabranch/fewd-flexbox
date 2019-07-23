@@ -1,0 +1,9 @@
+text-align: center;
+display: inline-block;
+div {
+         width: 100px;
+         border: 100px blue;
+         padding: 100px;
+         margin: 100px;
+         background-color: lightgray;
+         }
